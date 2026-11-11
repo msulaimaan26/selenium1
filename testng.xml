@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Local Login Test Suite" verbose="1">
+    <test name="Selenium Headless Chrome Tests">
+        <classes>
+            <class name="practice.LocalLoginTest"/>
+        </classes>
+    </test>
+</suite>
